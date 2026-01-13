@@ -1,3 +1,4 @@
+
 git init
 git add .
 git add file_name
@@ -7,4 +8,19 @@ git commit -m "message"
 git pus origin main
 git remote add origin 
 git clone <URL>
+
+
+git init
+git add .
+git add file_name
+git status
+git restore file_name
+git commit -m "message"
+git pus origin main
+git remote add origin 
+git clone <URL>
+
+
+
+git pull origin main
 
