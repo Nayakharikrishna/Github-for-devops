@@ -7,3 +7,8 @@ git commit -m "message"
 git pus origin main
 git remote add origin 
 git clone <URL>
+
+
+
+
+git pull origin main
